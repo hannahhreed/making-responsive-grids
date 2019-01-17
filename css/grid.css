@@ -26,3 +26,11 @@
   }
 
 }
+
+@media only screen and (mind-width: 60em) {
+
+  .l-1-3 {
+    width: 33.3333%;
+  }
+
+}
